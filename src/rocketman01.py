@@ -7,7 +7,7 @@ REST_API_BASE_URL = "https://api.spacexdata.com/v4"
 
 def all_launches():
     """
-    Get all launches and print a list of the names
+    Get all launches and print a list of the namesaaa
     """
     
     response = requests.request(
